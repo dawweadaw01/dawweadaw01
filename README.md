@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**dawweadaw01/dawweadaw01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Poison02/Poison02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poison02&show_icons=true&theme=dark)
+## Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Poison02&repo=Java-Note)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poison02)](https://github.com/anuraghazra/github-readme-stats)

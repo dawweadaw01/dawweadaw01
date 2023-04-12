@@ -1,4 +1,3 @@
-### Hi there 👋
 # 我是banyan
 ### 明月多情应笑我，笑我如今。
 Here are some ideas to get you started:

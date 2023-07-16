@@ -1,7 +1,7 @@
 # 我是banyan
 
-这是博客地址
-[!close2u](https://close2u.work/)
+# 这是博客地址
+# [close2u](https://close2u.work/)
 ### 明月多情应笑我，笑我如今。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawweadaw01&show_icons=true&theme=dark)
